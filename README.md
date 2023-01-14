@@ -3,7 +3,7 @@
 ![Night-Coding](https://user-images.githubusercontent.com/65488712/199217847-bc6a7568-705a-4613-b365-8f04297ae6e5.gif)
 
 - 🔭 I’m currently working on **vroomm**
-- 🌱 Future learning **Rust, Cucumber, WebRTC, Kafka, Kubernetes**
+- 🌱 Future learning **Rust, Cucumber, WebRTC, Kafka, Kubernetes, ELK Stack**
 - Current tech stacks **Nodejs, Nestjs (express/fastify adapter), Graphql, Flask, Redis, SQL/NoSQL database, Reactjs, Flutter, Docker, AWS ec2/ecs/rds/s3/codepipeline**
 
 <br />
