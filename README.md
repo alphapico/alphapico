@@ -1,10 +1,18 @@
-**Ola 👋, I'm 87654be, a fullstack engineer**
+**Ola 👋, I'm a fullstack engineer**
 
 ![Night-Coding](https://user-images.githubusercontent.com/65488712/199217847-bc6a7568-705a-4613-b365-8f04297ae6e5.gif)
 
-- 🔭 I’m currently working on **vroomm**
-- 🌱 Future learning **Rust, WebRTC, Kafka, Kubernetes, ELK Stack**
-- Current tech stacks **Nodejs, Nestjs (express/fastify adapter), Graphql, Flask, Redis, SQL/NoSQL database, Reactjs, Cucumber/Playwright, Flutter, Docker, AWS ec2/ecs/rds/s3/codepipeline**
+- 🔭 I’m currently working on **tradingview** automation
+- 🌱 Future learning **Rust, WebRTC, Kafka**
+- Current tech stacks:
+  - API: **Nodejs (nestjs/expressjs/fastify), ASP MVC, Flask, GraphQL/REST**
+  - NoSQL/Cache/Message Broker: **Redis, Elastic Search**
+  - SQL: **PostgreSQL, Oracle** 
+  - Web Frontend: **Reactjs/Redux**
+  - Mobile app: **Flutter**
+  - Smart Contract: **Solidity**
+  - Testing: **Jest, Supertest, Playwright**
+  - DevOps: **Terraform, Docker, Kubernetes, AWS ec2/ecs/rds/s3/codepipeline**
 
 <br />
 
@@ -14,6 +22,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C-sharp](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=239120)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -35,6 +44,7 @@
 ![Aws-ecs](https://img.shields.io/badge/-AWS%20ECS-000000?style=flat&logo=amazon+ecs&logoColor=FF9900)
 ![Aws-rds](https://img.shields.io/badge/-AWS%20RDS-000000?style=flat&logo=amazon+rds&logoColor=527FFF)
 ![Aws-s3](https://img.shields.io/badge/-AWS%20S3-000000?style=flat&logo=amazon+s3&logoColor=569A31)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=codeigniter&logoColor=EF4223)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
@@ -46,6 +56,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphqL&logoColor=e535ab)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C21325)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&color=2EAD33&logo=Playwright&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
@@ -63,6 +74,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=993D88)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=DC382D)
 ![Redis](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 ![Sketch](https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch&logoColor=f7b500)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
