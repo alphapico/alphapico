@@ -6,11 +6,13 @@
 - 🌱 Future learning **Rust, WebRTC, Kafka**
 - Current tech stacks:
   - API: **Nodejs (nestjs/expressjs/fastify), ASP MVC, Flask, GraphQL/REST**
-  - NoSQL/Cache/Message Broker: **Redis, Elastic Search**
+  - NoSQL: **MongoDB**
   - SQL: **PostgreSQL, Oracle** 
+  - Cache/Queue: **Redis**
+  - Search: **Elastic Search**
+  - Message Broker: **NATS**
   - Web Frontend: **Reactjs/Redux**
   - Mobile app: **Flutter**
-  - Smart Contract: **Solidity**
   - Testing: **Jest, Supertest, Playwright**
   - DevOps: **Terraform, Docker, Kubernetes, AWS ec2/ecs/rds/s3/codepipeline**
 
