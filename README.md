@@ -11,7 +11,7 @@
   - Cache/Queue: **Redis**
   - Search: **Elastic Search**
   - Message Broker: **NATS**
-  - Web Frontend: **Reactjs/Redux**
+  - Web Frontend: **Reactjs/Vue 3**
   - Mobile app: **Flutter**
   - Testing: **Jest, Supertest, Playwright**
   - DevOps: **Terraform, Docker, Kubernetes, AWS ec2/ecs/rds/s3/codepipeline**
