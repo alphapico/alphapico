@@ -9,11 +9,11 @@
   - NoSQL: **MongoDB**
   - SQL: **PostgreSQL, Oracle** 
   - Cache/Queue: **Redis**
-  - Search: **Elastic Search**
+  - Search: **MongoDB Search**
   - Message Broker: **NATS**
   - Web Frontend: **Reactjs/Vue 3**
   - Mobile app: **Flutter**
-  - Testing: **Jest, Supertest, Playwright**
+  - Testing: **Jest, Supertest**
   - DevOps: **Terraform, Docker, Kubernetes, AWS ec2/ecs/rds/s3/codepipeline**
 
 <br />
