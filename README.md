@@ -1,20 +1,17 @@
-**Ola 👋, I'm a fullstack engineer**
+**Ola 👋, I'm a T-shaped engineer**
 
 ![Night-Coding](https://user-images.githubusercontent.com/65488712/199217847-bc6a7568-705a-4613-b365-8f04297ae6e5.gif)
 
-- 🔭 I’m currently working on **tradingview** automation
-- 🌱 Future learning **Rust, WebRTC, Kafka**
+- 🔭 I’m currently working as Data Engineer
+- 🌱 Future learning **Rust, Realtime Big Data Streaming Pipeline, AI Agents**
 - Current tech stacks:
-  - API: **Nodejs (nestjs/expressjs/fastify), ASP MVC, Flask, GraphQL/REST**
-  - NoSQL: **MongoDB**
-  - SQL: **PostgreSQL, Oracle** 
-  - Cache/Queue: **Redis**
-  - Search: **MongoDB Search**
-  - Message Broker: **NATS**
-  - Web Frontend: **Reactjs/Vue 3**
-  - Mobile app: **Flutter**
-  - Testing: **Jest, Supertest**
-  - DevOps: **Terraform, Docker, Kubernetes, AWS ec2/ecs/rds/s3/codepipeline**
+ 
+  - Data Engineering: Snowflake, dbt, Databricks, Airflow, NiFi, Snowpipe, ETL/ELT, Data Vault 2.0
+  - Cloud & DevOps: AWS (EC2, ECS, RDS, CloudFront), Azure, Docker, Terraform, CI/CD, Git
+  - Backend: Python, TypeScript, Node.js, GraphQL, NestJS, Flask, Azure Durable Functions, Microservices, REST APIs
+  - Databases: PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redis, Cosmos DB
+  - Frontend & Mobile: React, Vue.js, Flutter, Swift, iOS/Android Development
+  - Testing: Jest, Supertest
 
 <br />
 
