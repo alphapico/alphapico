@@ -2,7 +2,7 @@
 
 ![Night-Coding](https://user-images.githubusercontent.com/65488712/199217847-bc6a7568-705a-4613-b365-8f04297ae6e5.gif)
 
-- 🔭 I’m currently working as Data Engineer
+- 🔭 I’m currently learning Data and AI Engineering
 - 🌱 Future learning **Rust, Realtime Big Data Streaming Pipeline, AI Agents**
 - Current tech stacks:
  
